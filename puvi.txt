@@ -1,3 +1,5 @@
 hi  evreyone 
 i am learning git  
-
+and i am learning to connect
+git and github
+in this cls
