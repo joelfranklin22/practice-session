@@ -1,2 +1,4 @@
-hi everyone 
-i am typing in second file
+hi everyone
+
+
+git hub is working correctly
